@@ -1,6 +1,6 @@
 # Alper Kulturel
 
-**Financial Analyst · Data Analyst · Quant Developer**
+**Financial Analyst · Data Analyst**
 
 Istanbul, Türkiye · Open to relocation to the US
 

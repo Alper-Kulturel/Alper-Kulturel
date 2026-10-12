@@ -1,12 +1,12 @@
 # Alper Kulturel
 
-**Financial Analyst · Data Analyst**
+**Business Analyst/Consultant**
 
-Istanbul, Türkiye · Open to relocation to the US
+Miami, United States 
 
 ---
 
-Financial analyst with 2+ years of experience in performance reporting, forecasting, and KPI-driven decision support. I build the tools behind the analysis — with 20+ public projects spanning options pricing, backtesting, credit risk, and automated data pipelines.
+Business analyst with 2+ years of experience in performance reporting, forecasting, and KPI-driven decision support. I build the tools behind the analysis — with 20+ public projects spanning options pricing, backtesting, credit risk, and automated data pipelines.
 
 **Stack:** Python · C++ · SQL · C# · pandas · NumPy · scikit-learn · PostgreSQL · Docker · Streamlit
 

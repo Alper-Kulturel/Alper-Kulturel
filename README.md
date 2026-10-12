@@ -1,14 +1,16 @@
 # Alper Kulturel
 
-**Business Analyst/Consultant**
+**Business Analyst / Consultant**
 
 Miami, United States 
 
 ---
 
-Business analyst with 2+ years of experience in performance reporting, forecasting, and KPI-driven decision support. I build the tools behind the analysis — with 20+ public projects spanning options pricing, backtesting, credit risk, and automated data pipelines.
+Business graduate with experience in business intelligence, data analysis, performance reporting, and strategic decision support. I take a business question — where margin is leaking, whether a market is worth entering, which step in a process is the constraint — and answer it with a number attached.
 
-**Stack:** Python · C++ · SQL · C# · pandas · NumPy · scikit-learn · PostgreSQL · Docker · Streamlit
+Skilled in SQL, Excel, and Tableau, with Python for the analysis underneath. My public projects span engagement economics, market sizing, operations improvement, credit risk, and automated reporting pipelines.
+
+**Stack:** SQL · Excel · Tableau · Python · pandas · NumPy · PostgreSQL · Power BI · Streamlit
 
 ---
 
@@ -16,10 +18,9 @@ Business analyst with 2+ years of experience in performance reporting, forecasti
 
 | Project | Description |
 |---|---|
-| [portfolio-optimization](https://github.com/Alper-Kulturel/portfolio-optimization) | Interactive Markowitz efficient frontier with Streamlit |
-| [credit-risk-scoring](https://github.com/Alper-Kulturel/credit-risk-scoring) | PD/LGD/EAD framework with Basel capital and SHAP |
-| [market-data-etl](https://github.com/Alper-Kulturel/market-data-etl) | 20 advanced SQL queries on 2 years of S&P 500 data |
-| [quant-screener](https://github.com/Alper-Kulturel/quant-screener) | Daily factor screener over 50 US large caps |
+| [engagement-profitability-analytics](https://github.com/Alper-Kulturel/engagement-profitability-analytics) | Decomposes a consulting firm's margin into discounts, write-offs, unbilled time and delivery cost — then sizes what recovery is worth |
+| [market-entry-analysis](https://github.com/Alper-Kulturel/market-entry-analysis) | TAM/SAM/SOM triangulated top-down and bottom-up, with segment scoring, scenario modelling and a phased entry recommendation |
+| [operations-bottleneck-analysis](https://github.com/Alper-Kulturel/operations-bottleneck-analysis) | Mines a process event log for the real constraint, simulates the fixes, and prices each one as an investment with a payback |
 
 ---
 

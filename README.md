@@ -16,12 +16,10 @@ Business analyst with 2+ years of experience in performance reporting, forecasti
 
 | Project | Description |
 |---|---|
-| [cpp-black-scholes](https://github.com/Alper-Kulturel/cpp-black-scholes) | C++ options pricing engine with all five Greeks and pybind11 bindings |
 | [portfolio-optimization](https://github.com/Alper-Kulturel/portfolio-optimization) | Interactive Markowitz efficient frontier with Streamlit |
 | [credit-risk-scoring](https://github.com/Alper-Kulturel/credit-risk-scoring) | PD/LGD/EAD framework with Basel capital and SHAP |
 | [market-data-etl](https://github.com/Alper-Kulturel/market-data-etl) | 20 advanced SQL queries on 2 years of S&P 500 data |
 | [quant-screener](https://github.com/Alper-Kulturel/quant-screener) | Daily factor screener over 50 US large caps |
-| [cpp-order-book](https://github.com/Alper-Kulturel/cpp-order-book) | Price-time priority matching engine in C++17 |
 
 ---
 
